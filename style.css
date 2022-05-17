@@ -1,0 +1,41 @@
+body{
+background-color: #CCF3EE;
+}
+*hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  height: 2px;
+  width: 5%;
+}
+h1,h3{
+  color: blue;
+}
+.top-con{
+  background-color:lightpink;
+  display:block;
+  width:500px;
+  border: 10px;
+  padding: 20px;
+  border-style:groove;
+}
+.middle-con{
+  background-color:sandybrown;
+  height: 400px;
+  width: 500px;
+  border:20px;
+ border-style:groove;
+ margin-left: 560px;
+}
+.bottom-con{
+  background-color:skyblue;
+  height: 500px;
+  width: 500px;
+  border: 10px;
+  border-style:groove;
+  margin-left: 1100px;
+}
+.clouds{
+  margin-left: 800px;
+}
