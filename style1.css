@@ -1,0 +1,24 @@
+/*****tag selector*************/
+h1{
+color:blue;
+font-size: 70px;
+}
+p{
+font-style: normal;
+font-size: 25px;
+color: orange;
+margin-left: 500px;
+margin-top: 5px;
+}
+
+/******************class selector**************/
+.tele{
+  border-style: dotted;
+}
+.moon{
+  margin-left: 180px;
+}
+/**************************id  selector**************/
+#heading:hover{
+  color:green;
+}
